@@ -4,4 +4,12 @@ Learning to code. I like running, climbing and photography. I have run two marat
 
 <img src="http://hedford.com/blog/wp-content/uploads/2014/01/maxresdefault-1.-300x220.jpg">
 
-<img src="https://curriculum-content.s3.amazonaws.com/web-development/circle_logo.jpg">
+<p id="tips">Useful Tips Section</p>
+<a href="#tips">Jump to Useful Tips Section</a>
+<br><br><br>
+</br></br></br>
+<a href="myfile.html">My File link text here</a>
+
+<a href="mailto:sbw132@yahoo.com">This is an email link</a>
+<br>
+</br>
